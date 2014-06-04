@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Servo Controller</string>
+	<string name="help">Help</string>
+
+	<string name="ins12">1. USB Cable</string>
+  	<string name="ins13">Buy USB OTG cabel and connect it to your Android device.</string>
+	<string name="ins0">2. Arduino Soft</string>
+  	<string name="ins1">Upload Arduino software available at: </string>
+	<string name="ins2">3. Establish Connection</string>
+  	<string name="ins3">Connect Android device with Arduino board.</string>
+	<string name="ins4">4. Popup</string>
+  	<string name="ins5">Servo Controller should popup automatically and Arduino TX LED should start blinking.</string>
+    <string name="ins6">5. Move Sliders</string>
+  	<string name="ins7">Connect ESC or Servo white signal wire to Arduino pin 2, red +5v, black GND and start mooving sliders.</string>
+  	<string name="ins8">6. Troubleshooting</string>
+  	<string name="ins9">If nothing happens when you connect Arduino to your Adnroid device than either your device does not support USB Host mode or you have not connected a valid OTG USB cable.</string>
+    <string name="ins10">7. More info</string>
+  	<string name="ins11">Visit this page for more details: </string>
+  	
+</resources>

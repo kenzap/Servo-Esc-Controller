@@ -1,0 +1,56 @@
+<PreferenceScreen
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        >
+
+        <Preference
+                android:key="pref0"
+                android:title="@string/ins12"
+                android:summary="@string/ins13"
+                android:enabled="true"
+                >
+     
+        </Preference>
+        <Preference
+                android:key="pref1"
+                android:title="@string/ins0"
+                android:summary="@string/ins1"
+                android:enabled="true"
+                >
+     
+        </Preference>
+		<PreferenceScreen
+                android:key="pref2"
+                android:title="@string/ins2"
+                android:summary="@string/ins3"
+                >
+            
+       </PreferenceScreen>
+		<PreferenceScreen
+                android:key="pref3"
+                android:title="@string/ins4"
+                android:summary="@string/ins5"
+                >
+            
+       </PreferenceScreen>
+  		<PreferenceScreen
+                android:key="pref4"
+                android:title="@string/ins6"
+                android:summary="@string/ins7"
+               >
+            
+       </PreferenceScreen>
+		<PreferenceScreen
+                android:key="pref5"
+                android:title="@string/ins8"
+                android:summary="@string/ins9"
+              >
+            
+       </PreferenceScreen>
+		<PreferenceScreen
+                android:key="pref6"
+                android:title="@string/ins10"
+                android:summary="@string/ins11"
+               >
+            
+       </PreferenceScreen>
+</PreferenceScreen>
